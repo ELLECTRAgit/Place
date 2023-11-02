@@ -1,0 +1,42 @@
+/* .profile__insert {
+    max-width: 150px;
+    width: 100%;
+    height: 50px;
+
+    background-image: url(../../../img/InsertButton.svg);
+    background-color: #000;
+    background-size: cover;
+    border: 1px solid white;
+
+    margin: auto 0 auto auto;
+
+}
+
+.profile__insert:hover{
+    
+    opacity: 0.6;
+} */
+
+/* @media only screen and (min-width: 320px) and (max-width:767px) {
+    .profile__insert {
+        max-width: 282px;
+        background-image: url(../../../img/AddButtonLong.svg);
+    background-color: #000;
+   
+    border: 1px solid white;
+    margin: 36px auto auto auto;
+    }
+}
+
+@media screen and (min-width: 0px) and (max-width:319px) {
+    .profile__insert {
+        max-width: 282px;
+        background-image: url(../../../img/AddButtonLong.svg);
+        background-color: #000;
+        
+        border: 1px solid white;
+        margin: 36px auto auto auto;
+       
+         
+    }
+} */

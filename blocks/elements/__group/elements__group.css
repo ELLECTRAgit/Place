@@ -1,0 +1,9 @@
+.elements__group{
+    max-width: 246px;
+    width: 100%;
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: auto auto auto auto;
+}

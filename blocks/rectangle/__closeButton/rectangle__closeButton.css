@@ -1,0 +1,28 @@
+.rectangle__closeButton{
+    display: none;
+    max-width: 32px;
+    width: 100%;
+    max-height: 32px;
+    height: 100%;
+    
+      
+}
+
+.rectangle__closeButton:hover{
+    opacity: 0.6;
+}
+
+.visibleRectangle__closeButton{
+    background-image: url(../../../img/closeButton.svg);
+    background-color: #000000; 
+ border: none;
+    position: absolute;
+    
+    display: flex;
+    top: -13%;
+    left: 103%;
+}
+
+.visibleRectangle__closeButton:hover{
+    opacity: 0.6;
+}

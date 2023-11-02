@@ -1,0 +1,32 @@
+.elements__like{
+    max-width: 22px;
+    width: 100%;
+    max-height: 19px;
+    height: 100%;
+    background-image: url(../../../img/Like.svg);
+    background-color: white;
+    background-size: cover;
+    border: 1px solid white;
+}
+
+.elements__like:hover{
+    content: '';
+    background-image: url(../../../img/HoverLike.svg);
+    background-color: white;
+    background-size: cover;
+    border: 1px solid white;
+    z-index: 1;
+}
+
+.visible{
+    background-image: url(../../../img/BlackLike.svg); 
+}
+.visible:hover{
+    content: '';
+    background-image: url(../../../img/BlackLike.svg);
+    background-color: white;
+    background-size: cover;
+    border: 1px solid white;
+    z-index: 1;
+}
+
